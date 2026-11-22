@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تحويل سريع</string>
+    <string name="service_name">تحويل سريع</string>
+    <string name="service_desc">بتقرأ رسائل البنك (USSD) وبترد عليها بدالك عشان تكمّل التحويل. ما بتشتغل إلا لما تضغط \"تحويل\" في التطبيق.</string>
+    <string name="steps_help">PIN = الرقم السري، PHONE = رقم المستلم، CONFIRM = تأكيد الاسم، AMOUNT = المبلغ، ACCOUNT = الحساب، FINAL = رمز التأكيد الأخير. أي إشي ثاني بينبعت زي ما هو. افصل بينهم بفاصلة.</string>
+</resources>

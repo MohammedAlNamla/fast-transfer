@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#000000</color>
+    <color name="card">#1C1C1E</color>
+    <color name="card2">#2C2C2E</color>
+    <color name="text">#FFFFFF</color>
+    <color name="text2">#8E8E93</color>
+    <color name="text3">#5A5A5E</color>
+    <color name="field">#1C1C1E</color>
+    <color name="seg">#48484A</color>
+    <color name="line">#2C2C2E</color>
+    <color name="accent">#FF5C8A</color>
+    <color name="accentSoft">#2A1420</color>
+    <color name="primary">#FFFFFF</color>
+    <color name="onPrimary">#000000</color>
+    <color name="onAccent">#000000</color>
+    <color name="warn">#FF9F0A</color>
+    <color name="warnSoft">#2B2010</color>
+    <color name="danger">#FF453A</color>
+    <color name="scrim">#A6000000</color>
+    <color name="g1">#FF7A45</color>
+    <color name="g2">#E8366F</color>
+    <color name="g3">#6B3BEA</color>
+
+    <color name="tGreen">#30D158</color>
+    <color name="tBlue">#0A84FF</color>
+    <color name="tOrange">#FF9F0A</color>
+    <color name="tIndigo">#5E5CE6</color>
+    <color name="tGray">#8E8E93</color>
+    <color name="tPink">#FF375F</color>
+    <color name="tTeal">#40C8E0</color>
+    <color name="tPurple">#BF5AF2</color>
+</resources>
